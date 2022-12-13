@@ -1,0 +1,77 @@
+.container-fluid{
+    background-color: rgb(161, 19, 19);
+    text-align: center;
+}
+.para{
+    font-size:2rem ;
+    line-height:3;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rgb(163, 4, 4) ;
+    text-align: center;
+    color:white ;
+    padding-left:15.5% ;
+    padding-right:13.5% ;
+
+}
+.h1{
+    font-size: 3rem;
+    margin: 10% 10%;
+    padding-left:10% ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.heading-image {
+    transform: rotate(-5deg);
+    length: 500px;
+    width: 500px;
+}
+.cf{
+   text-align: center; 
+
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size:2.5rem ;
+   background-color: black;
+   color: brown;
+}
+.box{
+    background-color:rgb(148, 5, 5);
+    text-align: center;
+    font-size:2rem ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 3% 3%;
+color:white;
+line-height: 1;
+}
+.meet-heading{
+    font-size:6rem ;
+    
+}
+.p{
+    padding:5% 10% ;
+}
+.card{
+    text-align: center;
+margin: 5% 5%;
+border: solid 1px ;
+background-color: black;
+color: brown;
+font-size:2rem ;
+line-height:2 ;
+
+}
+.img{
+    border-radius: 100px;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.ab{
+    text-align: center;
+    background-color:rgb(182, 6, 6) ;
+    color:white ;
+    padding:3% 8% ;
+}
+.ac{
+    padding:5%;
+}
